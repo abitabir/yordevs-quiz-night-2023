@@ -219,11 +219,18 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
    [^1]: **Hint:** They were crafted using _only_ CSS!  
 
+1. Which HTML tag formats elements as a numbered list?
+
+   + `<ol>`
+   - `<list>`
+   - `<dl>`
+   - `<ul>`
+
 1. Which is the correct HTML hyperlink?
-   + `<a href="http://www.yordevs.com">Yordevs</a>`
-   - `<a url="http://www.yordevs.com">Yordevs</a>`
-   - `<a name="http://www.yordevs.com">Yordevs</a>`
-   - `<a>http://www.yordevs.com</a>`
+   - `<a url="http://www.yordevs.com">Yordevs</a> <!-- This one is -->`
+   - `<a name="http://www.yordevs.com">Yordevs</a> <!-- No, that one is -->`
+   - `<a>http://www.yordevs.com</a> <!-- Yes, this one is! -->`
+   + `<a href="http://www.yordevs.com">Yordevs</a> <!-- No, this is -->`
 
 1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^1]  
 
@@ -243,6 +250,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + Formspree
    - Formspark
 
+1. Which HTML opens a link in a new browser window?
+
+   - `<a href="url" new>`
+   + `<a href="url" target="_blank">` 
+   - `<a href="url" target="new">`
+   - `<a href="url" target="new">`
+
 1. How many ducks are present on the Yordevs Links page?[^1]  
 
    + 170
@@ -259,7 +273,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - PUT
    + GET
 
-1. What HTTP status code (although slightly misleading) is accompanied by the response [here](https://raw.githubusercontent.com/yordevs/yordle-server/master/resources/forbiddenResponse.txt) on the Yordle Server upon an POST request with an invalid body?  
+1. What HTTP status code (although slightly misleading) is accompanied by [this response](https://raw.githubusercontent.com/yordevs/yordle-server/master/resources/forbiddenResponse.txt) on the Yordle Server upon an POST request with an invalid body?  
 
    + 403
    - 200
@@ -292,25 +306,46 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
       <h2>Questions<h2>
       ```
       
+1. What is the correct HTML for making a checkbox?
+
+   - `<check>`
+   - `<checkbox>`
+   - `<input type="check">`
+   + `<input type="checkbox">`
+
 1. This is the Yordevs website's nav bar. What HTML tag should enclose the elements of the nav bar?  
    
    <img src="https://user-images.githubusercontent.com/68516952/224137068-d8fd525d-9484-4d24-b125-db44894da117.png" title="Yordevs Nav Bar" width="350">  
 
-   - 403
-   - 200
-   - 400
-   + 402
+   - `<navbar>`
+   - `<navigation>`
+   - `<navigate>`
+   + `<nav>`
 
 1. When you hover over an item on the Yordevs nav bar, the change is very visual - but why?
 
    <img src="https://user-images.githubusercontent.com/68516952/224136816-5166bd30-07d8-4682-b962-b77d03828aaa.png" title="Yordevs Nav Bar on Hover" width="350">
    
    + 403
-   - A change in colour is sufficient enough to imply a hyperlink.
+   - A change in colour is sufficient enough to indicate a hyperlink.
    - 400
    - 402
 
+1. Keyboard users utilise the tab and shift-tab keys to navigate through interactive web page elements. Visual indication of the element with current keyboard focus, called a focus indicator, is thus useful for sighted keyboard users. An example of a focus indicator on the button link to the Yordevs Website from the Yordevs Links page is shown. Which of the following elements on the Yordevs website does not provide focus indication?
 
+   <img src="https://user-images.githubusercontent.com/68516952/224175831-19a09136-62c8-48d1-8fa0-e84fac90d621.png" title="Links Focus Indicator Example" width="350">  
+
+   - <img src="https://user-images.githubusercontent.com/68516952/224176408-a180579e-004e-4153-8277-cab3b1aeab54.png" title="Focus Indicator 1" width="350">
+   + <img src="https://user-images.githubusercontent.com/68516952/224176797-474487cc-4db1-4c3b-99de-cd424ea6314d.png" title="Focus Indicator 2" width="350">
+   - <img src="https://user-images.githubusercontent.com/68516952/224177236-0191861c-05f6-4d75-81ee-053bf9c2d60c.png" title="Focus Indicator 3" width="350">
+   - <img src="https://user-images.githubusercontent.com/68516952/224176940-4b7e5170-3039-4f4a-85d4-2fe6348b7e57.png" title="Focus Indicator 4" width="350">
+
+1. Which HTML attribute is used to specify that an form element input field has to be filled out?
+
+   - formvalidate
+   - validate
+   + required
+   - placeholder
 
 1. Which of these are valid JavaScript?
 
