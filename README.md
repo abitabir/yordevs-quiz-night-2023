@@ -7,7 +7,7 @@ We bid you welcome to the final Yordevs event of the term, where you'll put your
 As a quiz participant you will get free pizza! Please fill out the Google Form [here](https://quiz.yordevs.com), if you haven't already.
 The Yordevs AGM will also follow this event! You can nominate yourself beforehand [here](https://nominations.yordevs.com).  
 
-You can work individually or in a group. Choose one of the four answers for every question. You have half an hour to answer these questions. Email your answers to yordevs@yusu.org by 6:35pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded to one chosen member of the winning teams via email following the event, and it will be their responsibility to split the prize amongst the team.  
+You can work individually or in a group. Choose one of the four answers for every question. You have an hour to answer these questions. Email your answers to yordevs@yusu.org by 6:35pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded to one chosen member of the winning teams via email following the event, and it will be their responsibility to split the prize amongst the team.  
 
 If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
@@ -24,7 +24,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 1. This is the modal window on the Yordle website. Which of the following HTML elements is this modal window nested in?
    
-   <img src="https://user-images.githubusercontent.com/68516952/224185710-64c3696d-5e91-4761-b261-48abf4722022.png" title="Yordle Model Window" width="350">
+   <img src="https://user-images.githubusercontent.com/68516952/224185710-64c3696d-5e91-4761-b261-48abf4722022.png" title="Yordle Modal Popup" width="350">
 
    - `<header>`
    + `<body>`
