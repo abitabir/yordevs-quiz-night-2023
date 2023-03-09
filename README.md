@@ -275,19 +275,19 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 1. Which of these are valid HTML?
 
-    - ```
+    - ```HTML
       <h1> Yordevs Quiz Night 2023
       <h2> Questions
       ```
-    - ```
+    - ```HTML
       </h1> Yordevs Quiz Night 2023<h1>
       </h2> Questions<h1>
       ```
-    + ```
+    + ```HTML
       <h1>Yordevs Quiz Night 2023</h1>
       <h2>Questions</h2>
       ```
-    - ```
+    - ```HTML
       <h1>Yordevs Quiz Night 2023<h1>
       <h2>Questions<h2>
       ```
