@@ -219,6 +219,12 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
    [^1]: **Hint:** They were crafted using _only_ CSS!  
 
+1. Which is the correct HTML hyperlink?
+   + `<a href="http://www.yordevs.com">Yordevs</a>`
+   - `<a url="http://www.yordevs.com">Yordevs</a>`
+   - `<a name="http://www.yordevs.com">Yordevs</a>`
+   - `<a>http://www.yordevs.com</a>`
+
 1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^1]  
 
    + "If you can scan a qr code you can make a website, why not use these links to find out more about us"
@@ -260,7 +266,33 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - 400
    - 402
 
-1. No
+1. Which is the correct HTML tag to enclose important text
+
+   - `<important>`
+   + `<strong>`
+   - `<b>`
+   - `<i>`
+
+1. Which of these are valid HTML?
+
+    - ```
+      <h1> Yordevs Quiz Night 2023
+      <h2> Questions
+      ```
+    - ```
+     </h1> Yordevs Quiz Night 2023<h1>
+     </h2> Questions<h1>
+     ```
+    + ```
+     <h1>Yordevs Quiz Night 2023</h1>
+     <h2>Questions</h2>
+     ```
+    - ```
+     <h1>Yordevs Quiz Night 2023<h1>
+     <h2>Questions<h2>
+     ```
+
+1. Which of these are valid JavaScript?
 
    ```javascript
    var s = "JavaScript syntax highlighting";
