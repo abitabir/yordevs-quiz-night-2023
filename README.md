@@ -10,7 +10,7 @@ The Yordevs AGM will also follow this event! You can nominate yourself beforehan
 You have half an hour to answer these questions. If you are following the quiz out of person, please email yordevs@yusu.org your answers by 6:30pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded via email following the event(?).  
 
 If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
-[^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com) or utilising [CodePen](https://codepen.io) useful for some of these questions.  
+[^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com), scouring [Yordevs GitHub history]() or utilising [CodePen](https://codepen.io) useful for some of these questions.  
 
 ## Part 1: HTML  
 
@@ -24,7 +24,14 @@ If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
    - Formspark
 
 ## Part 2: CSS    
+
+1. Which of these hex codes is part of the Yordevs branding?
    
+   + #AA211A
+   - #2B434C
+   - #DED45B
+   - #9D140D
+
 1. Meet the Yordevs duck's distant cousin. In the following HTML code block containing internal CSS, what hex code represents the colour of the body class?
 
    ```HTML
@@ -139,24 +146,22 @@ If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
    + #F7ED74
    - #FFFFFF
 
-1. Using the same HTML code as the previous question, you may have noticed that our distant cousin is wingless. Which is the smallest change in the code that wings the duck?
+1. Using the same HTML code as the previous question, you may have noticed that our distant cousin is wingless. Which is the smallest _change_ in the code that wings the poor duck?
 
-   - Remove `display: none;` from the wing class styling
+   - Remove `display: none;` from the `wing` class styling
    + Replace `wing` by `wings` in the internal CSS
    - Replace `red-wing` by `red-wings` in the HTML document body
-   - Add `display: block !important;` to both red-wing and yellow-wing class stylings
+   - Add `display: block !important;` to both `red-wing` and `yellow-wing` class stylings
 
-1. Which of these hex codes is part of the Yordevs branding?
-   
-   + #AA211A
-   - #2B434C
-   - #DED45B
-   - #9D140D
+1. Going up the Yordevs family tree for a quick history lesson. Who of the following is the oldest of the long lost Yordevs ancestors? Hint: they were crafted using CSS only!
 
-1.
-
+   - <img src="https://user-images.githubusercontent.com/68516952/223913883-74d9cec4-6452-4db5-a092-941ee906cdf2.png" title="Yordevs Ancient Logo 1" width="350">
+   + <img src="https://user-images.githubusercontent.com/68516952/223913881-25d96dc9-d305-400a-9609-bbb02e4bdbce.png" title="Yordevs Ancient Logo 2" width="350">
+   - <img src="https://user-images.githubusercontent.com/68516952/223914406-3e7dcd31-9244-4911-8681-10e510aa7b66.png" title="Yordevs Ancient Logo 3" width="350">
+   - <img src="https://user-images.githubusercontent.com/68516952/223913884-b44ea022-e5a2-4d47-b391-7494d3e51781.png" title="Yordevs Ancient Logo 4" width="350">
 
 ## Part 3: JavaScript  
+
 
 1. No
 
