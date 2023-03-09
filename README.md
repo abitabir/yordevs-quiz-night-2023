@@ -7,15 +7,13 @@ We bid you welcome to the final Yordevs event of the term, where you'll put your
 As a quiz participant you will get free pizza! Please fill out the Google Form [here](https://quiz.yordevs.com), if you haven't already.
 The Yordevs AGM will also follow this event! You can nominate yourself beforehand [here](https://nominations.yordevs.com).  
 
-You have half an hour to answer these questions. If you are following the quiz out of person, please email yordevs@yusu.org your answers by 6:30pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded via email following the event(?).  
+You can work individually or in a group. You have half an hour to answer these questions. If you are following the quiz out of person, please email yordevs@yusu.org your answers by 6:35pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded to one nominated member of the winning teams via email following the event, and it will be their responsibility to split the prize amongst the team.  
 
 If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 [^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com) and [the Yordevs Links page](https://links.yordevs.com/), scouring [Yordevs GitHub](https://github.com/yordevs) or utilising [CodePen](https://codepen.io) useful for some of these questions.  
 
-## Part 1: HTML  
-
-## Part 2: CSS    
+## Part 1: HTML and CSS    
 
 1. Which of these hex codes is part of the Yordevs branding?
    
@@ -147,24 +145,16 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 1. Going up the Yordevs family tree for a quick history lesson. Who of the following is the oldest of the long lost Yordevs ancestors?[^1]
 
-[^1]: **Hint:** they were crafted using CSS only!
+[^1]: **Hint:** They were crafted using _only_ CSS!
 
    - <img src="https://user-images.githubusercontent.com/68516952/223913883-74d9cec4-6452-4db5-a092-941ee906cdf2.png" title="Yordevs Ancient Logo 1" width="350">
    + <img src="https://user-images.githubusercontent.com/68516952/223913881-25d96dc9-d305-400a-9609-bbb02e4bdbce.png" title="Yordevs Ancient Logo 2" width="350">
    - <img src="https://user-images.githubusercontent.com/68516952/223914406-3e7dcd31-9244-4911-8681-10e510aa7b66.png" title="Yordevs Ancient Logo 3" width="350">
    - <img src="https://user-images.githubusercontent.com/68516952/223913884-b44ea022-e5a2-4d47-b391-7494d3e51781.png" title="Yordevs Ancient Logo 4" width="350">
 
-## Part 3: JavaScript  
+## Part 2: JavaScript  
 
-
-1. No
-
-   ```javascript
-   var s = "JavaScript syntax highlighting";
-   alert(s);
-   ```
-
-1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^1]
+1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^1]  
 
    + "If you can scan a qr code you can make a website, why not use these links to find out more about us"
    - "You've come from a qr code? Why not join us and find out how we knew!"
@@ -173,7 +163,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 [^1]: **Hint:** Check out URL query strings and parameters!
 
-1. What backend does this Contact Us form on the Yordevs Website use?
+1. What backend does this Contact Us form on the Yordevs Website use?  
    
    <img src="https://user-images.githubusercontent.com/68516952/223878998-f14bb974-159b-4ced-9fcd-233d3c774751.png" title="Yordevs Contact Us" width="350">
    
@@ -182,7 +172,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + Formspree
    - Formspark
 
-1. How many ducks are present on the Yordevs Links page?[^1]
+1. How many ducks are present on the Yordevs Links page?[^1]  
 
    + 170
    - 180
@@ -191,4 +181,12 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 [^1]: **Hint:** Investigate the Yordevs Links page or repo...
 
+1. No
+
+   ```javascript
+   var s = "JavaScript syntax highlighting";
+   alert(s);
+   ```
+
 1. rickrollhttp regex
+
