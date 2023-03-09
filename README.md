@@ -15,6 +15,20 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 ## Part 1: HTML and CSS   
 
+1. Which is the correct HTML tag for the smallest heading element?
+
+   - `<h1>`
+   - `<h10>`
+   + `<h6>`
+   - `<heading>`
+
+1. What is the correct HTML tag for inserting a line break element?
+
+   + `<br>`
+   - `<break>`
+   - `<lb>`
+   - `\n`
+
 1. Why does the logo on the YUSU website blur when you zoom in a bit too much?
    
    <img src="https://user-images.githubusercontent.com/68516952/224081684-bd8990ce-56b8-4f08-a006-fb61fe3454d6.png" title="YUSU Logo" width="350">
@@ -23,6 +37,32 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - The logo is a vector graphic in an SVG format.
    + The logo is a PNG image format.
    - The `style="max-width: 200px"` shouldn't make that possible!
+
+1. Using a screenreader for accessibility testing (e.g [Pericles](https://chrome.google.com/webstore/detail/pericles-text-to-speech-s/oacindbdmlbdeidohafnfocfckkhjlbg)), upon which icon in the Yordevs Website's footer does the screenreader stutter because of a ?
+
+   <img src="https://user-images.githubusercontent.com/68516952/224089167-b4403383-702f-4cad-b836-d7f8d673ee58.png" title="Yordevs Footer" width="350">
+
+   - Twitter
+   - GitHub
+   - Discord
+   + Instagram Unknown Social Media Icon
+
+1. WCAG (Web Content Accessibility Guidelines) are guidelines published by the Web Accessibility Initiative of the World Wide Web Consortium, the main international standards organization for the Internet. Which of the following is the correct WCAG 2.0 guideline in terms of contrast ratios?
+
+   + WCAG 2.0 Level AA requires text or images of text to have a contrast ratio of at least 4.5:1 (or 3:1 for large text).
+   - WCAG 2.0 Level A requires text or images of text to have a contrast ratio of at least 7:1 (or 4.5:1 for large text).
+   - WCAG 2.0 Level AAA requires text or images of text to have a contrast ratio of at least 4.5:1 (or 3:1 for large text).
+   - WCAG 2.0 Level AAAA requires text or images of text to have a contrast ratio of at least 7:1 (or 4.5:1 for large text).
+
+1. Using an accessibility testing tool (e.g [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)), you can check if any contrast errors are present on a website. Thankfully, there are none on the Yordevs Website. But of the following WCAG guidelines, which is the Yordevs Website not compliant with?
+
+   <img src="https://user-images.githubusercontent.com/68516952/224108335-afccb587-1563-4fa0-be4a-76e687e4d949.png" title="Yordevs WAVE Test" width="350">
+   <img src="https://user-images.githubusercontent.com/68516952/224112554-93600b69-2100-404c-9703-5f7234a4f685.png" title="Yordevs WAVE Error" width="350">
+
+   - [4.1.2 Name, Role, Value (Level A)](https://webaim.org/standards/wcag/checklist#sc4.1.2) 
+   - [1.1.1 Non-text Content (Level A)](https://webaim.org/standards/wcag/checklist#sc1.1.1) 
+   + [3.1.1 Language of Page (Level A)](https://webaim.org/standards/wcag/checklist#sc3.1.1)
+   - [2.4.4 Link Purpose (In Context) (Level A)](https://webaim.org/standards/wcag/checklist#sc2.4.4)
 
 1. Which of these hex codes is part of the Yordevs branding?
    
