@@ -22,6 +22,15 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + `<h6>`
    - `<heading>`
 
+1. This is the modal window on the Yordle website. Which of the following HTML elements is this modal window nested in?
+   
+   <img src="https://user-images.githubusercontent.com/68516952/224185710-64c3696d-5e91-4761-b261-48abf4722022.png" title="Yordle Model Window" width="350">
+
+   - `<header>`
+   + `<body>`
+   - `<footer>`
+   - `<iframe>`
+
 1. What is the correct HTML tag for inserting a line break element?
 
    + `<br>`
