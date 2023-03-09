@@ -53,8 +53,8 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
    - `iconName="Link to Yordevs LinkedIn"` isn't present
    + `iconName="Link to Yordevs LinkedIn"` is misplaced
-   - `icon={<FaLinkedin}` isn't present
-   - `icon={<FaLinkedin}` is misplaced
+   - `icon={<FaLinkedin/>}` isn't present
+   - `icon={<FaLinkedin/>}` is misplaced
 
 1. The following ASCII art is accompanied by which Yordevs welcome in Dev Tools on the Yordevs Website?
 
@@ -227,6 +227,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<ul>`
 
 1. Which is the correct HTML hyperlink?
+
    - `<a url="http://www.yordevs.com">Yordevs</a> <!-- This one is -->`
    - `<a name="http://www.yordevs.com">Yordevs</a> <!-- No, that one is -->`
    - `<a>http://www.yordevs.com</a> <!-- Yes, this one is! -->`
@@ -339,6 +340,15 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + <img src="https://user-images.githubusercontent.com/68516952/224176797-474487cc-4db1-4c3b-99de-cd424ea6314d.png" title="Focus Indicator 2" width="350">
    - <img src="https://user-images.githubusercontent.com/68516952/224177236-0191861c-05f6-4d75-81ee-053bf9c2d60c.png" title="Focus Indicator 3" width="350">
    - <img src="https://user-images.githubusercontent.com/68516952/224176940-4b7e5170-3039-4f4a-85d4-2fe6348b7e57.png" title="Focus Indicator 4" width="350">
+
+1. What is the most major problem for keyboard users when navigating the Yordevs website when zoomed in at 125%+ or on a smaller viewport?
+
+   <img src="https://user-images.githubusercontent.com/68516952/224178311-6d3e5a75-8c9b-4ce3-aac4-15593eacf9aa.png" title="Smaller Viewport" width="350">
+   
+   + The burger menu is not keyboard focusable.
+   - There is no focus indicator on the Yordevs logo.
+   - There is no focus indicator on the `Blogs` navigation link.
+   - The tab order is awesome!
 
 1. Which HTML attribute is used to specify that an form element input field has to be filled out?
 
