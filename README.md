@@ -15,9 +15,9 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 ## Questions  
 
-1. Which is the correct HTML tag for the smallest heading element?
+1. Which is a valid HTML tag?
 
-   - `<h1>`
+   - `<h0>`
    - `<h10>`
    + `<h6>`
    - `<heading>`
@@ -319,8 +319,8 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    <img src="https://user-images.githubusercontent.com/68516952/224137068-d8fd525d-9484-4d24-b125-db44894da117.png" title="Yordevs Nav Bar" width="350">  
 
    - `<navbar>`
-   - `<navigation>`
-   - `<navigate>`
+   - `<section>`
+   - None, as they are enclosed by `<header>`
    + `<nav>`
 
 1. When you hover over an item on the Yordevs nav bar, the change is very visual. Which of the following is not a valid reason, according to the WCAG 2.0 guidelines, for this?
