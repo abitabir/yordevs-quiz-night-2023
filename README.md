@@ -9,19 +9,11 @@ The Yordevs AGM will also follow this event! You can nominate yourself beforehan
 
 You have half an hour to answer these questions. If you are following the quiz out of person, please email yordevs@yusu.org your answers by 6:30pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded via email following the event(?).  
 
-If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
-[^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com), scouring [Yordevs GitHub history]() or utilising [CodePen](https://codepen.io) useful for some of these questions.  
+If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
+
+[^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com) and [the Yordevs Links page](https://links.yordevs.com/), scouring [Yordevs GitHub](https://github.com/yordevs) or utilising [CodePen](https://codepen.io) useful for some of these questions.  
 
 ## Part 1: HTML  
-
-1. What backend does this Contact Us form use?
-   
-   <img src="https://user-images.githubusercontent.com/68516952/223878998-f14bb974-159b-4ced-9fcd-233d3c774751.png" title="Yordevs Contact Us" width="350">
-   
-   - Formbold
-   - Formcake
-   + Formspree
-   - Formspark
 
 ## Part 2: CSS    
 
@@ -153,7 +145,9 @@ If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
    - Replace `red-wing` by `red-wings` in the HTML document body
    - Add `display: block !important;` to both `red-wing` and `yellow-wing` class stylings
 
-1. Going up the Yordevs family tree for a quick history lesson. Who of the following is the oldest of the long lost Yordevs ancestors? Hint: they were crafted using CSS only!
+1. Going up the Yordevs family tree for a quick history lesson. Who of the following is the oldest of the long lost Yordevs ancestors?[^1]
+
+[^1]: **Hint:** they were crafted using CSS only!
 
    - <img src="https://user-images.githubusercontent.com/68516952/223913883-74d9cec4-6452-4db5-a092-941ee906cdf2.png" title="Yordevs Ancient Logo 1" width="350">
    + <img src="https://user-images.githubusercontent.com/68516952/223913881-25d96dc9-d305-400a-9609-bbb02e4bdbce.png" title="Yordevs Ancient Logo 2" width="350">
@@ -170,5 +164,31 @@ If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
    alert(s);
    ```
 
-1. 
+1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^1]
 
+   + "If you can scan a qr code you can make a website, why not use these links to find out more about us"
+   - "You've come from a qr code? Why not join us and find out how we knew!"
+   - "You clicked our link on a qr code? I didn't even know you could do that!"
+   - "This link was shared via a qr code? Good job I wrote the code for this message then!"
+
+[^1]: **Hint:** Check out URL query strings and parameters!
+
+1. What backend does this Contact Us form on the Yordevs Website use?
+   
+   <img src="https://user-images.githubusercontent.com/68516952/223878998-f14bb974-159b-4ced-9fcd-233d3c774751.png" title="Yordevs Contact Us" width="350">
+   
+   - Formbold
+   - Formcake
+   + Formspree
+   - Formspark
+
+1. How many ducks are present on the Yordevs Links page?[^1]
+
+   + 170
+   - 180
+   - 200
+   - 150
+
+[^1]: **Hint:** Investigate the Yordevs Links page or repo...
+
+1. rickrollhttp regex
