@@ -181,6 +181,20 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 [^1]: **Hint:** Investigate the Yordevs Links page or repo...
 
+1. What HTTP request method gets you rick rolled on the Yordle Server?  
+
+   - DELETE
+   - POST
+   - PUT
+   + GET
+
+1. What HTTP status code (although slightly misleading) is accompanied by the response [here](https://raw.githubusercontent.com/yordevs/yordle-server/master/resources/forbiddenResponse.txt) on the Yordle Server upon an POST request with an invalid body?  
+
+   + 403
+   - 200
+   - 400
+   - 402
+
 1. No
 
    ```javascript
@@ -188,5 +202,5 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    alert(s);
    ```
 
-1. rickrollhttp regex
+1. regex
 
