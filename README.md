@@ -13,7 +13,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 [^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com) and [the Yordevs Links page](https://links.yordevs.com/), scouring [Yordevs GitHub](https://github.com/yordevs) or utilising [CodePen](https://codepen.io) useful for some of these questions.  
 
-## Part 1: HTML and CSS   
+## Questions  
 
 1. Which is the correct HTML tag for the smallest heading element?
 
