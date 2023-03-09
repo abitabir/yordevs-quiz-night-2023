@@ -323,16 +323,16 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<navigate>`
    + `<nav>`
 
-1. When you hover over an item on the Yordevs nav bar, the change is very visual - but why?
+1. When you hover over an item on the Yordevs nav bar, the change is very visual. Which of the following is not a valid reason, according to the WCAG 2.0 guidelines, for this?
 
    <img src="https://user-images.githubusercontent.com/68516952/224136816-5166bd30-07d8-4682-b962-b77d03828aaa.png" title="Yordevs Nav Bar on Hover" width="350">
    
-   + 403
-   - A change in colour is sufficient enough to indicate a hyperlink.
-   - 400
-   - 402
+   - A change in text decoration (usually an underline) upon mouse hover and keyboard focus is sufficient enough to indicate a hyperlink, as users are accustomed to seeing links underlined.
+   + A change in colour upon mouse hover and keyboard focus is sufficient enough to indicate a hyperlink, even if some users have low vision, color deficiency, or page color overrides.
+   - Links should look like links, and nothing else should.
+   - Alternative visual mouse hover effects (such as background glows, drop shadows, color changes) for navigation links can help users know that an element is clickable.
 
-1. Keyboard users utilise the tab and shift-tab keys to navigate through interactive web page elements. Visual indication of the element with current keyboard focus, called a focus indicator, is thus useful for sighted keyboard users. An example of a focus indicator on the button link to the Yordevs Website from the Yordevs Links page is shown. Which of the following elements on the Yordevs website does not provide focus indication?
+1. Keyboard users utilise the tab and shift-tab keys to navigate through interactive web page elements. Visual indication of the element with current keyboard focus, called a focus indicator, is thus useful for sighted keyboard users. An example of a focus indicator on the button link to the Yordevs Website from the Yordevs Links page is shown. To ensure the same visual presentation is available upon both mouse hover or keyboard focus, any time `a:hover` is adjusted in CSS, `a:focus` should be too. Which of the following elements on the Yordevs website does not provide focus indication?
 
    <img src="https://user-images.githubusercontent.com/68516952/224175831-19a09136-62c8-48d1-8fa0-e84fac90d621.png" title="Links Focus Indicator Example" width="350">  
 
@@ -341,7 +341,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - <img src="https://user-images.githubusercontent.com/68516952/224177236-0191861c-05f6-4d75-81ee-053bf9c2d60c.png" title="Focus Indicator 3" width="350">
    - <img src="https://user-images.githubusercontent.com/68516952/224176940-4b7e5170-3039-4f4a-85d4-2fe6348b7e57.png" title="Focus Indicator 4" width="350">
 
-1. What is the most major problem for keyboard users when navigating the Yordevs website when zoomed in at 125%+ or on a smaller viewport?
+1. Which of these is the biggest setback for keyboard users when navigating the Yordevs website when zoomed in at 125%+ or on a smaller viewport?
 
    <img src="https://user-images.githubusercontent.com/68516952/224178311-6d3e5a75-8c9b-4ce3-aac4-15593eacf9aa.png" title="Smaller Viewport" width="350">
    
