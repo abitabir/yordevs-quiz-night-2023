@@ -34,8 +34,8 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    <img src="https://user-images.githubusercontent.com/68516952/224081684-bd8990ce-56b8-4f08-a006-fb61fe3454d6.png" title="YUSU Logo" width="350">
 
    - The width and height properties were set too high in the `<img>`.
-   - The logo is a vector graphic in an SVG format.
-   + The logo is a PNG image format.
+   - The logo is in an XML-based vector graphic of an SVG format.
+   + The logo is in a PNG image format.
    - The `style="max-width: 200px"` shouldn't make that possible!
 
 1. Using a screenreader for accessibility testing (e.g [Pericles](https://chrome.google.com/webstore/detail/pericles-text-to-speech-s/oacindbdmlbdeidohafnfocfckkhjlbg)), upon which icon in the Yordevs Website's footer does the screenreader stop working properly?
@@ -291,6 +291,26 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
       <h1>Yordevs Quiz Night 2023<h1>
       <h2>Questions<h2>
       ```
+      
+1. This is the Yordevs website's nav bar. What HTML tag should enclose the elements of the nav bar?  
+   
+   <img src="https://user-images.githubusercontent.com/68516952/224137068-d8fd525d-9484-4d24-b125-db44894da117.png" title="Yordevs Nav Bar" width="350">  
+
+   - 403
+   - 200
+   - 400
+   + 402
+
+1. When you hover over an item on the Yordevs nav bar, the change is very visual - but why?
+
+   <img src="https://user-images.githubusercontent.com/68516952/224136816-5166bd30-07d8-4682-b962-b77d03828aaa.png" title="Yordevs Nav Bar on Hover" width="350">
+   
+   + 403
+   - A change in colour is sufficient enough to imply a hyperlink.
+   - 400
+   - 402
+
+
 
 1. Which of these are valid JavaScript?
 
