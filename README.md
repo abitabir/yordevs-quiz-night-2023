@@ -10,7 +10,7 @@ The Yordevs AGM will also follow this event! You can nominate yourself beforehan
 You have half an hour to answer these questions. If you are following the quiz out of person, please email yordevs@yusu.org your answers by 6:30pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded via email following the event(?).  
 
 If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
-[^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com) useful for some of these questions.  
+[^1]: **Hint:** you may find inspecting [the Yordevs website](https://yordevs.com) or utilising [CodePen](https://codepen.io) useful for some of these questions.  
 
 ## Part 1: HTML  
 
@@ -25,7 +25,7 @@ If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
 
 ## Part 2: CSS    
    
-1. In the following HTML and CSS code blocks, what is the hex code for the body class?
+1. Meet the Yordevs duck's distant cousin. In the following HTML code block containing internal CSS, what hex code represents the colour of the body class?
 
    ```HTML
    <!DOCTYPE html>
@@ -74,26 +74,25 @@ If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
            border-radius: 30% 70% 50% 30% / 50% 0 100% 50%;
          }
          .wing {
-           transform: rotate(-45deg);
+           display: none;
          }
          .red-wing {
            position: absolute;
            border-top: 140px solid #9D140D;
            border-right: 80px solid transparent;
            border-left: 80px solid transparent;
-           transform: rotate(-45deg);
-           margin-left: -50px;
-           margin-top: 210px;
+           transform: rotate(150deg);
+           margin-left: 150px;
+           margin-top: 270px;
          }
          .yellow-wing {
            position: absolute;
            border-top: 140px solid #F7ED74;
            border-right: 80px solid transparent;
            border-left: 80px solid transparent;
-           transform: rotate(-45deg);
-           margin-left: -70px;
-           margin-top: 190px;
-           transform: scale(0.75) rotate(-45deg);
+           transform: scale(0.75) rotate(150deg);
+           margin-left: 140px;
+           margin-top: 275px;
          }
          .cursor {
            position: absolute;
@@ -139,6 +138,13 @@ If you're _really_ stuck, ask us for a nudge.[^1] Good luck!
    - #284049
    + #F7ED74
    - #FFFFFF
+
+1. Using the same HTML code as the previous question, you may have noticed that our distant cousin is wingless. Which is the smallest change in the code that wings the duck?
+
+   - Remove `display: none;` from the wing class styling
+   + Replace `wing` by `wings` in the internal CSS
+   - Replace `red-wing` by `red-wings` in the HTML document body
+   - Add `display: block !important;` to both red-wing and yellow-wing class stylings
 
 1. Which of these hex codes is part of the Yordevs branding?
    
