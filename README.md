@@ -38,7 +38,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + The logo is a PNG image format.
    - The `style="max-width: 200px"` shouldn't make that possible!
 
-1. Using a screenreader for accessibility testing (e.g [Pericles](https://chrome.google.com/webstore/detail/pericles-text-to-speech-s/oacindbdmlbdeidohafnfocfckkhjlbg)), upon which icon in the Yordevs Website's footer does the screenreader stutter because of a ?
+1. Using a screenreader for accessibility testing (e.g [Pericles](https://chrome.google.com/webstore/detail/pericles-text-to-speech-s/oacindbdmlbdeidohafnfocfckkhjlbg)), upon which icon in the Yordevs Website's footer does the screenreader stop working properly?
 
    <img src="https://user-images.githubusercontent.com/68516952/224089167-b4403383-702f-4cad-b836-d7f8d673ee58.png" title="Yordevs Footer" width="350">
 
@@ -58,23 +58,23 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 1. The following ASCII art is accompanied by which Yordevs welcome in Dev Tools on the Yordevs Website?
 
-   <img src="https://user-images.githubusercontent.com/68516952/224125507-bfc8676b-558b-4cac-8a46-c0d8f3b703fa.png" title="Yordevs Footer Unstylinged" width="350">
+   <img src="https://user-images.githubusercontent.com/68516952/224125507-bfc8676b-558b-4cac-8a46-c0d8f3b703fa.png" title="ASCII Longboi Welcome" width="350">
    
    - "Hi from Longboi, and the Yordevs team!"
    - "Hello from the Yordevs team, and Longboi!"
    - "Hi from the Yordevs team, and Longboi!"
    + "Hello from Longboi, and the Yordevs team!"
 
-1. WCAG (Web Content Accessibility Guidelines) are guidelines published by the Web Accessibility Initiative of the World Wide Web Consortium, the main international standards organization for the Internet. Which of the following is the correct WCAG 2.0 guideline in terms of contrast ratios?
+1. WCAG (Web Content Accessibility Guidelines) are guidelines published by the Web Accessibility Initiative of the World Wide Web Consortium, the main international standards organization for the Internet. Which of the following is the correct WCAG 2.0 guideline on contrast ratios?
 
    + WCAG 2.0 Level AA requires text or images of text to have a contrast ratio of at least 4.5:1 (or 3:1 for large text).
    - WCAG 2.0 Level A requires text or images of text to have a contrast ratio of at least 7:1 (or 4.5:1 for large text).
    - WCAG 2.0 Level AAA requires text or images of text to have a contrast ratio of at least 4.5:1 (or 3:1 for large text).
    - WCAG 2.0 Level AAAA requires text or images of text to have a contrast ratio of at least 7:1 (or 4.5:1 for large text).
 
-1. Using an accessibility testing tool (e.g [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)), you can check if any contrast errors are present on a website. Thankfully, there are none on the Yordevs Website. But of the following WCAG guidelines, which is the Yordevs Website not compliant with?
+1. Using an accessibility testing tool (e.g [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)), you can check if any contrast errors are present on a website. Thankfully, there are none on the Yordevs Website - but there is one error. Which of the following WCAG guidelines, is this error not compliant with?
 
-   <img src="https://user-images.githubusercontent.com/68516952/224108335-afccb587-1563-4fa0-be4a-76e687e4d949.png" title="Yordevs WAVE Test" width="350">
+   <img src="https://user-images.githubusercontent.com/68516952/224108335-afccb587-1563-4fa0-be4a-76e687e4d949.png" title="Yordevs WAVE Test" width="350">  
    <img src="https://user-images.githubusercontent.com/68516952/224112554-93600b69-2100-404c-9703-5f7234a4f685.png" title="Yordevs WAVE Error" width="350">
 
    - [4.1.2 Name, Role, Value (Level A)](https://webaim.org/standards/wcag/checklist#sc4.1.2) 
@@ -218,8 +218,6 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - <img src="https://user-images.githubusercontent.com/68516952/223913884-b44ea022-e5a2-4d47-b391-7494d3e51781.png" title="Yordevs Ancient Logo 4" width="350">
 
    [^1]: **Hint:** They were crafted using _only_ CSS!  
-
-## Part 2: JavaScript  
 
 1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^1]  
 
