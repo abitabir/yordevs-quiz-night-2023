@@ -265,7 +265,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
    [^2]: **Hint:** They were crafted using _only_ CSS!  
 
-1. Which of these statements about the HTML alt attribute is false?
+1. Which of these statements concerning the HTML alt attribute is false?
    
    - Null alt attributes should only be used for decorative images.
    - Alt attributes specify alternative information about an image, which is used if a user cannot view it (e.g. due to a slow connection, an error in the src attribute, or if a screen reader is used).
@@ -282,13 +282,6 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<list>`
    - `<dl>`
    - `<ul>`
-
-1. Which of the following statements is false?
-
-   + External JavaScript files must contain the `<script>` tag.
-   - JavaScript, enclosed by `<script>` tags, can be present in both the `<head>` and `<body>` sections of a HTML document.
-   - `<script src="index.js">` is the correct syntax for referring to an external script in a file called `index.js`.
-   - JavaScript is put in the `<script>` HTML element.
 
 1. Which is the correct HTML hyperlink?
 
@@ -353,7 +346,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
      <a href="url" target="new">
      ```
 
-1. Where on the web can you find this?
+1. Where on the whole wide web can you find this?
 
    <img src="https://user-images.githubusercontent.com/68516952/224188232-71904736-4ec3-4925-952c-03e6f14b3fd1.png" title="Yordevs Shoutout" width="350">  
 
@@ -368,6 +361,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - 180
    - 200
    - 150
+
+1. Which of the following statements about the `<script>` HTML element is false?
+
+   + External JavaScript files must contain the `<script>` tag.
+   - JavaScript, enclosed by `<script>` tags, can be present in both the `<head>` and `<body>` sections of a HTML document.
+   - `<script src="index.js">` is the correct syntax for referring to an external script in a file called `index.js`.
+   - JavaScript is put in the `<script>` HTML element.
 
 1. What HTTP request method gets you rick rolled on the Yordle Server?  
 
