@@ -469,4 +469,6 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + required
    - placeholder
 
-Aaaand you're done - phew and well done! Remember to send your answers in an email off to yordevs@yusu.org!
+
+## Aaaand you're done - phew!
+Congratulations on getting to the end. But remember to send your answers in an email off to yordevs@yusu.org!
