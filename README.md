@@ -390,6 +390,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<b>`
    - `<i>`
 
+1. Which of these would enable you to select all p elements inside div elements in CSS?
+
+   - `div + p`
+   - `p -> div`
+   + `div p`
+   - `div.p`  
+
 1. What HTML form input presents multiple options, but allows the selection of only one?
 
    - `<input type="text">`
@@ -478,6 +485,12 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - There is no focus indicator on the `Blogs` navigation link.
    - The tab order is awesome!
 
+1. What are `<div>` tags used for in a HTML document?
+   - To replace paragraphs (i.e. `<p>` tags).
+   - To create hyperlinks.
+   + To logically divide the document.
+   - To create space between sections of a document.
+
 1. What is the correct JavaScript syntax for opening a new window called "yd" ?
 
    - ```JavaScript
@@ -500,6 +513,12 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + required
    - placeholder
 
+1. What is the purpose of meta tags?
 
-## Ending here
-Aaaand you're done - phew! Congratulations on getting to the end. Just remember to send your answers in an email off to yordevs@yusu.org!
+   - To only store information about browsers.
+   + To store data relevant to web browsers and search engines.
+   - To only store information about search engines.
+   - To only store information about users.
+
+## Conclusion
+Aaaand you're done - phew! Congratulations on getting here. Just remember to send your answers in an email off to yordevs@yusu.org!
