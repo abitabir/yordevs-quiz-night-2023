@@ -281,10 +281,18 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 1. Which is the correct HTML hyperlink?
 
-   - `<a url="http://www.yordevs.com">Yordevs</a> <!-- This one is -->`
-   - `<a name="http://www.yordevs.com">Yordevs</a> <!-- No, that one is -->`
-   - `<a>http://www.yordevs.com</a> <!-- Yes, this one is! -->`
-   + `<a href="http://www.yordevs.com">Yordevs</a> <!-- No, this is -->`
+   - ```HTML
+     <a url="http://www.yordevs.com">Yordevs</a> <!-- This one is -->
+     ```
+   - ```HTML
+     <a name="http://www.yordevs.com">Yordevs</a> <!-- No, that one is -->
+     ```
+   - ```HTML
+     <a>http://www.yordevs.com</a> <!-- Yes, this one is! -->
+     ```
+   + ```HTML
+     <a href="http://www.yordevs.com">Yordevs</a> <!-- No, this is -->
+     ```
 
 1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^3]  
 
@@ -306,10 +314,18 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
 1. Which HTML opens a link in a new browser window?
 
-   - `<a href="url" new>`
-   + `<a href="url" target="_blank">` 
-   - `<a href="url" target="new">`
-   - `<a href="url" target="new">`
+   - ```HTML
+     <a href="url" new>
+     ```
+   + ```HTML
+     <a href="url" target="_blank">
+     ```
+   - ```HTML
+     <a href="url" target="new">
+     ```
+   - ```HTML
+     <a href="url" target="new">
+     ```
 
 1. Where on the web can you find this?
 
