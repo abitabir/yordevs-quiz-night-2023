@@ -470,5 +470,5 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - placeholder
 
 
-## Aaaand you're done - phew!
-Congratulations on getting to the end. But remember to send your answers in an email off to yordevs@yusu.org!
+## The end is here
+Aaaand you're done - phew! Congratulations on getting to the end. Just remember to send your answers in an email off to yordevs@yusu.org!
