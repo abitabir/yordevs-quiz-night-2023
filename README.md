@@ -469,12 +469,4 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + required
    - placeholder
 
-1. Which of these are valid JavaScript?
-
-   ```javascript
-   var s = "JavaScript syntax highlighting";
-   alert(s);
-   ```
-
-1. regex
-
+Aaaand you're done - phew and well done! Remember to send your answers in an email off to yordevs@yusu.org!
