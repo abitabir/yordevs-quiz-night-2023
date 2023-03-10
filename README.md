@@ -350,6 +350,25 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<b>`
    - `<i>`
 
+1. What is the correct JavaScript syntax to change the content of the HTML element below?
+
+   ```HTML
+   <p id="hello">Hello World!</p>
+   ```
+
+   - ```JavaScript
+     #hello.innerHTML = "Hello Yordevs!";
+     ```
+   - ```JavaScript
+     document.getElementByName("p").innerHTML = "Hello Yordevs!";`
+     ```
+   + ```JavaScript
+     document.getElementById("hello").innerHTML = "Hello Yordevs!";`
+     ```
+   - ```JavaScript
+     document.getElement("p").innerHTML = "Hello Yordevs!";`
+     ```
+
 1. Which of these are valid HTML?
 
     - ```HTML
