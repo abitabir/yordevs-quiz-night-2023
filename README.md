@@ -267,6 +267,15 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<a href="url" target="new">`
    - `<a href="url" target="new">`
 
+1. Where on the web can you find this?
+
+   <img src="https://user-images.githubusercontent.com/68516952/224188232-71904736-4ec3-4925-952c-03e6f14b3fd1.png" title="Yordevs Shoutout" width="350">  
+
+   + The Lemon Press website
+   - The Longboi Locator website
+   - The Ebor Lex Journal website
+   - The Yordle website
+
 1. How many ducks are present on the Yordevs Links page?[^1]  
 
    + 170
