@@ -550,7 +550,21 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + required
    - placeholder
 
-1. Regex
+1. What is the output on the console after running the following JavaScript code containing regex?
+
+   ```JavaScript
+   const input = "Remember then to send this tonight!";
+
+   const find = /.*(?:r\s)(.*)(?:n\s)(?:.*)(?:\ss)(.*)(?:\sth)(.*)(?:\sto)(?:([^t]*)(?:t)([^t]*))*/;
+   const replace = "$1 $2 $3 $4$5";
+
+   console.log(input.replace(find, replace));
+   ```
+
+   - to end this night!
+   + the end is nigh!
+   - then send this!
+   - hen night to remember!
 
 ## Conclusion
 Aaaand you're done - phew! Congratulations on getting here. Just remember to send your answers in an email off to yordevs@yusu.org!
