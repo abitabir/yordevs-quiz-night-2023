@@ -128,6 +128,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
      </head>
      ```
 
+1. Which event occurs when a user clicks on an HTML element?
+
+   + onclick
+   - onmouseover
+   - onmouseclick
+   - onchange
+
 1. Meet the Yordevs duck's distant cousin. In the following HTML code block containing internal CSS, what hex code represents the colour of the body class?
 
    ```HTML
@@ -249,14 +256,14 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - Replace `red-wing` by `red-wings` in the HTML document body
    - Add `display: block !important;` to both `red-wing` and `yellow-wing` class stylings
 
-1. Going up the Yordevs family tree for a quick history lesson. Who of the following is the oldest of the long lost Yordevs ancestors?[^1]
+1. Going up the Yordevs family tree for a quick history lesson. Who of the following is the oldest of the long lost Yordevs ancestors?[^2]
    
    - <img src="https://user-images.githubusercontent.com/68516952/223913883-74d9cec4-6452-4db5-a092-941ee906cdf2.png" title="Yordevs Ancient Logo 1" width="350">
    + <img src="https://user-images.githubusercontent.com/68516952/223913881-25d96dc9-d305-400a-9609-bbb02e4bdbce.png" title="Yordevs Ancient Logo 2" width="350">
    - <img src="https://user-images.githubusercontent.com/68516952/223914406-3e7dcd31-9244-4911-8681-10e510aa7b66.png" title="Yordevs Ancient Logo 3" width="350">
    - <img src="https://user-images.githubusercontent.com/68516952/223913884-b44ea022-e5a2-4d47-b391-7494d3e51781.png" title="Yordevs Ancient Logo 4" width="350">
 
-   [^1]: **Hint:** They were crafted using _only_ CSS!  
+   [^2]: **Hint:** They were crafted using _only_ CSS!  
 
 1. Which HTML tag formats elements as a numbered list?
 
@@ -265,6 +272,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<dl>`
    - `<ul>`
 
+1. Which of the following statements is false?
+
+   + External JavaScript files must contain the `<script>` tag.
+   - JavaScript, enclosed by `<script>` tags, can be present in both the `<head>` and `<body>` sections of a HTML document.
+   - `<script src="index.js">` is the correct syntax for referring to an external script in a file called `index.js`.
+   - JavaScript is put in the `<script>` HTML element.
+
 1. Which is the correct HTML hyperlink?
 
    - `<a url="http://www.yordevs.com">Yordevs</a> <!-- This one is -->`
@@ -272,14 +286,14 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<a>http://www.yordevs.com</a> <!-- Yes, this one is! -->`
    + `<a href="http://www.yordevs.com">Yordevs</a> <!-- No, this is -->`
 
-1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^1]  
+1. What message is displayed on the Yordevs Links page if the source is specified as a QR code?[^3]  
 
    + "If you can scan a qr code you can make a website, why not use these links to find out more about us"
    - "You've come from a qr code? Why not join us and find out how we knew!"
    - "You clicked our link on a qr code? I didn't even know you could do that!"
    - "This link was shared via a qr code? Good job I wrote the code for this message then!"
 
-   [^1]: **Hint:** Check out URL query strings and parameters!
+   [^3]: **Hint:** Check out URL query strings and parameters!
 
 1. What backend does this Contact Us form on the Yordevs Website use?  
    
@@ -306,14 +320,14 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - The Ebor Lex Journal website
    - The Yordle website
 
-1. How many ducks are present on the Yordevs Links page?[^1]  
+1. How many ducks are present on the Yordevs Links page?[^4]  
 
    + 170
    - 180
    - 200
    - 150
 
-   [^1]: **Hint:** Investigate the Yordevs Links page or repo...
+   [^4]: **Hint:** Investigate the Yordevs Links page or repo...
 
 1. What HTTP request method gets you rick rolled on the Yordle Server?  
 
