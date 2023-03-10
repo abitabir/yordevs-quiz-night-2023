@@ -212,7 +212,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + #F7ED74
    - #FFFFFF
 
-1. Using the same HTML code as the previous question, you may have noticed that our distant cousin is wingless. Which is the smallest _change_ in the code that wings the poor duck?
+1. Using the same HTML code as the previous question, you may have noticed that our distant cousin is wingless. Which is the smallest _change in the code_ that wings the poor duck?
 
    - Remove `display: none;` from the `wing` class styling
    + Replace `wing` by `wings` in the internal CSS
@@ -292,7 +292,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - PUT
    + GET
 
-1. What HTTP status code (although slightly misleading) is accompanied by [this response](https://raw.githubusercontent.com/yordevs/yordle-server/master/resources/forbiddenResponse.txt) on the Yordle Server upon an POST request with an invalid body?  
+1. What HTTP status code (although _slightly_ misleadingly) is accompanied by [this response](https://raw.githubusercontent.com/yordevs/yordle-server/master/resources/forbiddenResponse.txt) on the Yordle Server upon an POST request with an invalid body?  
 
    + 403
    - 200
