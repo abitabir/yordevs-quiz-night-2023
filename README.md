@@ -265,6 +265,17 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
    [^2]: **Hint:** They were crafted using _only_ CSS!  
 
+1. Which of these statements about the HTML alt attribute is false?
+   
+   - Null alt attributes should only be used for decorative images.
+   - Alt attributes specify alternative information about an image, which is used if a user cannot view it (e.g. due to a slow connection, an error in the src attribute, or if a screen reader is used).
+   - The alt attribute is required if the href attribute is present.
+   + The HTML:
+     ```HTML
+     <img src="" alt="The Yordevs Duck">yordevs-duck.png</img>
+     ```
+     adds a PNG image named yordevs-duck.png with alternative text 'The Yordevs Duck' to a page.
+
 1. Which HTML tag formats elements as a numbered list?
 
    + `<ol>`
