@@ -351,14 +351,12 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - The Ebor Lex Journal website
    - The Yordle website
 
-1. How many ducks are present on the Yordevs Links page?[^4]  
+1. How many ducks are present on the Yordevs Links page?  
 
    + 170
    - 180
    - 200
    - 150
-
-   [^4]: **Hint:** Investigate the Yordevs Links page or repo...
 
 1. What HTTP request method gets you rick rolled on the Yordle Server?  
 
