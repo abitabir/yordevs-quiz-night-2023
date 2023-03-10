@@ -335,7 +335,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - The Ebor Lex Journal website
    - The Yordle website
 
-1. How many ducks are present on the Yordevs Links page?  
+1. How many ducks are present on the Yordevs Links page?[^]  
 
    + 170
    - 180
@@ -540,7 +540,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
      yd = new.window("https://yordevs.com/");
      ```
    + ```JavaScript
-     yd = window.open("https://yordevs.com/");
+     yd = window.new("https://yordevs.com/");
      ```
 
 1. Which HTML attribute is used to specify that an form element input field has to be filled out?
