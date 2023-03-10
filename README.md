@@ -98,6 +98,36 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - #DED45B
    - #9D140D
 
+1. Which of the following is a valid and untruncated HTML meta description?
+
+   + ```HTML
+     <head>
+         <meta name="description" content="This is an example of a
+     meta description. This will often show up in search results.">
+     </head>
+     ```
+   - ```HTML
+     <body>
+         <meta name="description" content="This is another example of a
+     meta description. This may or may not show up in search results.">
+     </body>
+     ```
+   - ```HTML
+     <body>
+         <meta name="description" content="This is yet another example of a
+     meta description. Meta descriptions should be under 160 characters as 
+     any characters over may be truncated by search engines like Google.">
+     </body>
+     ```
+
+   - ```HTML
+     <head>
+         <meta name="description" content="This is but another example of a
+     meta description. Neither meta descriptions nor meta keywords factor 
+     into Google's ranking algorithms for web search.">
+     </head>
+     ```
+
 1. Meet the Yordevs duck's distant cousin. In the following HTML code block containing internal CSS, what hex code represents the colour of the body class?
 
    ```HTML
