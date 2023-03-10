@@ -38,7 +38,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<lb>`
    - `\n`
 
-1. Which of the following statements relating to stylings are untrue?
+1. Which one of the following statements relating to stylings is untrue?
 
    - The correct HTML for referring to an external style sheet is:
      ```HTML
