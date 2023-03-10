@@ -550,5 +550,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + required
    - placeholder
 
+1. Regex
+
 ## Conclusion
 Aaaand you're done - phew! Congratulations on getting here. Just remember to send your answers in an email off to yordevs@yusu.org!
