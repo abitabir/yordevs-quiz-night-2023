@@ -414,17 +414,18 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
      </head>
      ```
 
-1. Why is the SERP (Search Engine Results Page) snippet different from the meta description defined in the HTML for the Yordevs NextJS Tutorial? 
+1. Why is the SERP (Search Engine Results Page) snippet different from the meta description declared in the HTML for the Yordevs NextJS Tutorial? 
 
    ```HTML
-   <meta data-react-helmet="true" name="description" content="The official website for Yordevs, the University of York's Web Development society!">
+   <meta data-react-helmet="true" name="description" content="The official website for Yordevs, the University 
+                                                              of York's Web Development society!">
    ```
    <img src="https://user-images.githubusercontent.com/68516952/224222615-05ea8d64-948f-45dc-9bb0-5b7be02251eb.png" title="SERP snippet" width="350">  
 
-   - `div + p`
-   - `p -> div`
-   + `div p`
-   - `div.p`  
+   - Search engines overrule meta descriptions of pages when they detect a lot of relevance between the existing meta description of a result page and a user search query. Instead they use other snippets from the page that may be less relevant.
+   + Search engines overrule meta descriptions of pages when they detect little relevance between the existing meta description of a result page and a user search query. Instead they use other snippets from the page that may be more relevant.
+   - Search engines change the meta descriptions of pages when they detect little relevance between the existing meta description of a result page and a user search query. Instead they use other snippets from the page that may be more relevant.
+   - Search engines change the meta descriptions of pages when they detect a lot of relevance between the existing meta description of a result page and a user search query. Instead they use other snippets from the page that may be more relevant.  
 
 1. What HTML form input presents multiple options, but allows the selection of only one?
 
