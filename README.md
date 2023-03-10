@@ -108,36 +108,6 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - #DED45B
    - #9D140D
 
-1. Which of the following HTMLs will provide a valid and untruncated meta description?
-
-   + ```HTML
-     <head>
-         <meta name="description" content="This is an example of a
-     meta description. This will often show up in search results.">
-     </head>
-     ```
-   - ```HTML
-     <body>
-         <meta name="description" content="This is another example of a
-     meta description. This may or may not show up in search results.">
-     </body>
-     ```
-   - ```HTML
-     <body>
-         <meta name="description" content="This is yet another example of a
-     meta description. Meta descriptions should be under 160 characters as 
-     any characters over may be truncated by search engines like Google.">
-     </body>
-     ```
-
-   - ```HTML
-     <head>
-         <meta name="description" content="This is but another example of a
-     meta description. Neither meta descriptions nor meta keywords factor 
-     into Google's ranking algorithms for web search.">
-     </head>
-     ```
-
 1. Which event occurs when a user clicks on an HTML element?
 
    + onclick
@@ -407,6 +377,55 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + `div p`
    - `div.p`  
 
+1. What is the purpose of meta tags?
+
+   - To only store information about browsers.
+   + To store data relevant to web browsers and search engines.
+   - To only store information about search engines.
+   - To only store information about users.   
+   
+1. Which of the following HTMLs will provide a valid and untruncated meta description?
+
+   + ```HTML
+     <head>
+         <meta name="description" content="This is an example of a
+     meta description. This will often show up in search results.">
+     </head>
+     ```
+   - ```HTML
+     <body>
+         <meta name="description" content="This is another example of a
+     meta description. This may or may not show up in search results.">
+     </body>
+     ```
+   - ```HTML
+     <body>
+         <meta name="description" content="This is yet another example of a
+     meta description. Meta descriptions should be under 160 characters as 
+     any characters over may be truncated by search engines like Google.">
+     </body>
+     ```
+
+   - ```HTML
+     <head>
+         <meta name="description" content="This is but another example of a
+     meta description. Neither meta descriptions nor meta keywords factor 
+     into Google's ranking algorithms for web search.">
+     </head>
+     ```
+
+1. Why is the SERP (Search Engine Results Page) snippet different from the meta description defined in the HTML for the Yordevs NextJS Tutorial? 
+
+   ```HTML
+   <meta data-react-helmet="true" name="description" content="The official website for Yordevs, the University of York's Web Development society!">
+   ```
+   <img src="https://user-images.githubusercontent.com/68516952/224222615-05ea8d64-948f-45dc-9bb0-5b7be02251eb.png" title="SERP snippet" width="350">  
+
+   - `div + p`
+   - `p -> div`
+   + `div p`
+   - `div.p`  
+
 1. What HTML form input presents multiple options, but allows the selection of only one?
 
    - `<input type="text">`
@@ -522,13 +541,6 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - validate
    + required
    - placeholder
-
-1. What is the purpose of meta tags?
-
-   - To only store information about browsers.
-   + To store data relevant to web browsers and search engines.
-   - To only store information about search engines.
-   - To only store information about users.
 
 ## Conclusion
 Aaaand you're done - phew! Congratulations on getting here. Just remember to send your answers in an email off to yordevs@yusu.org!
