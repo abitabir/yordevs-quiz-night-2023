@@ -427,6 +427,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - Search engines change the meta descriptions of pages when they detect little relevance between the existing meta description of a result page and a user search query. Instead they use other snippets from the page that may be more relevant.
    - Search engines change the meta descriptions of pages when they detect a lot of relevance between the existing meta description of a result page and a user search query. Instead they use other snippets from the page that may be more relevant.  
 
+1. SEO (Search Engine Optimisation) work aims to improve website traffic to a website via search engines by improving the page rank (position in search rankings). Which of the following statements about SEO is false?
+
+   - Offpage SEO measures are applied outside of a website. Tactics include link building, guest posting and social media marketing. Offpage SEO aims to build your website's reputation and credibility.
+   - Onpage SEO tactics are applied directly within a website. Examples include measures to optimise the content or improve the meta description and title tags.
+   + White hat SEO strategies exclude link building, quality content creation, improving website performance, using descriptive meta tags, improving site navigation and utilising responsive web design.
+   - Black hat SEO techniques are unethical (but not illegal) SEO practices that clash with search engine guidelines and often result in penalties from search engines. Examples include keyword stuffing, cloaking, blog commenting, user-generated content spamming, using private link networks and even hacking.
+
 1. What HTML form input presents multiple options, but allows the selection of only one?
 
    - `<input type="text">`
