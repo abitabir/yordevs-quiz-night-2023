@@ -98,7 +98,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - #DED45B
    - #9D140D
 
-1. Which of the following is a valid and untruncated HTML meta description?
+1. Which of the following HTMLs will provide a valid and untruncated meta description?
 
    + ```HTML
      <head>
