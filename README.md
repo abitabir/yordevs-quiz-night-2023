@@ -376,13 +376,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
      #hello.innerHTML = "Hello Yordevs!";
      ```
    - ```JavaScript
-     document.getElementByName("p").innerHTML = "Hello Yordevs!";`
+     document.getElementByName("p").innerHTML = "Hello Yordevs!";
      ```
    + ```JavaScript
-     document.getElementById("hello").innerHTML = "Hello Yordevs!";`
+     document.getElementById("hello").innerHTML = "Hello Yordevs!";
      ```
    - ```JavaScript
-     document.getElement("p").innerHTML = "Hello Yordevs!";`
+     document.getElement("p").innerHTML = "Hello Yordevs!";
      ```
 
 1. Which of these are valid HTML?
@@ -446,6 +446,21 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - There is no focus indicator on the Yordevs logo.
    - There is no focus indicator on the `Blogs` navigation link.
    - The tab order is awesome!
+
+1. What is the correct JavaScript syntax for opening a new window called "yd" ?
+
+   - ```JavaScript
+     yd = window.open("https://yordevs.com/");
+     ```
+   - ```JavaScript
+     yd = open.window("https://yordevs.com/");
+     ```
+   - ```JavaScript
+     yd = new.window("https://yordevs.com/");
+     ```
+   + ```JavaScript
+     yd = window.open("https://yordevs.com/");
+     ```
 
 1. Which HTML attribute is used to specify that an form element input field has to be filled out?
 
