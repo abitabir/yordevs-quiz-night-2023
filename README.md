@@ -312,6 +312,21 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + Formspree
    - Formspark
 
+1. The HTML code for the textarea of the Contact Us form in the previous question is as follows:
+
+   ```HTML
+   <textarea cols="30" rows="5" placeholder="Your message here..." name="textarea" id="message"
+             class="ContactForm__FormInput" style="resize: vertical; max-width: 100%;">
+   </textarea>
+   ```
+   
+   Is this textarea an accessible HTML element?
+   
+   - Yes, as `placeholder` and `name` are specified.
+   - Yes, as `name` and `class` are specified.
+   - No, as `tab-index` and `label` are not specified.
+   + No, as `label` and `aria-label` are not specified.
+   
 1. Which HTML opens a link in a new browser window?
 
    - ```HTML
@@ -365,6 +380,13 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + `<strong>`
    - `<b>`
    - `<i>`
+
+1. What HTML form input presents multiple options, but allows the selection of only one?
+
+   - `<input type="text">`
+   + `<input type="radio">`
+   - `<input type="checkbox">`
+   - `<textarea>`
 
 1. What is the correct JavaScript syntax to change the content of the HTML element below?
 
