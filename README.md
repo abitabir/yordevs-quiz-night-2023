@@ -7,7 +7,7 @@ We bid you welcome to the final Yordevs event of the term, where you'll put your
 As a quiz participant you will get free pizza! Please fill out the Google Form [here](https://quiz.yordevs.com), if you haven't already.
 The Yordevs AGM will also follow this event! You can nominate yourself beforehand [here](https://nominations.yordevs.com).  
 
-You can work individually or in a group. Choose one of the four answers for every question. You have an hour to answer these questions. Email your answers to yordevs@yusu.org by 6:35pm to qualify for the prizes! Answers will be revealed at 6:35pm. Prizes will be awarded via email to a member of every winning team following the event, and it will be their responsibility to split the prize amongst their team.  
+You can work individually or in a group. Choose one of the four answers for every question. You have three quarters of an hour to answer these questions. Email your answers to yordevs@yusu.org by 6:35pm to qualify for the prizes! Answers will be revealed at 6:40pm. Prizes will be awarded via email to a member of every winning team following the event, and it will be their responsibility to split the prize amongst their team.  
 
 If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
 
