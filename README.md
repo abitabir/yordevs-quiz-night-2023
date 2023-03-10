@@ -38,6 +38,16 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<lb>`
    - `\n`
 
+1. Which of the following statements relating to stylings are untrue?
+
+   - The correct HTML for referring to an external style sheet is:
+     ```HTML
+     <link rel="stylesheet" type="text/css" href="styles.css">
+     ```
+   + You cannot refer to an external style sheet in the <head> section of a HTML document.
+   - The style HTML attribute is used to define inline styles.
+   - The style HTML element is used to define internal styles.
+
 1. Why does the logo on the YUSU website blur when you zoom in a bit too much?
    
    <img src="https://user-images.githubusercontent.com/68516952/224081684-bd8990ce-56b8-4f08-a006-fb61fe3454d6.png" title="YUSU Logo" width="350">
