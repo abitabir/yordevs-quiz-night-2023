@@ -546,7 +546,7 @@ If you're _really_ stuck, check the footnotes[^!] for a quick nudge or ask us fo
       <h2>Questions<h2>
       ```
 
-   [^w]: **Guidance:** Check in a HTML validator (e.g. [this one](https://validator.w3.org/#validate_by_input), although it validates HTML documents (not just code snippets), so expects the doctype declaration and other elements too).
+   [^w]: **Guidance:** Check in a HTML validator (e.g. [this one](https://validator.w3.org/#validate_by_input), although note that it validates HTML documents (not just code snippets), so expects the doctype declaration and other elements too).
       
 1. What is the correct HTML for making a checkbox?
 
