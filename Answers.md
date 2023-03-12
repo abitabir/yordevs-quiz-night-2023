@@ -22,7 +22,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + `<h6>`
    - `<heading>`
 
-1. This is the modal window on the Yordle website. Which of the following HTML elements is this modal window nested in?
+1. This is the modal window on the Yordle website. Which of the following HTML elements is this modal window nested in?[0]
    
    <img src="https://user-images.githubusercontent.com/68516952/224185710-64c3696d-5e91-4761-b261-48abf4722022.png" title="Yordle Modal Popup" width="350">
 
@@ -30,6 +30,8 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + `<body>`
    - `<footer>`
    - `<iframe>`
+
+   [^0]: **Guidance:**: Open your browser developer tools (Ctrl-Shift-i) and select the Elements tab to inspect the Yordle landing page's HTML. Click the element selector button (Ctrl-Shift-c), select the modal window then investigate where the modal window is located in the HTML by expanding and collapsing the HTML elements in the DOM.
 
 1. What is the correct HTML tag for inserting a line break element?
 
@@ -79,7 +81,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `icon={<FaLinkedin/>}` isn't present
    - `icon={<FaLinkedin/>}` is misplaced
 
-   [^c]: **Guidance:** Look in (Footer.js)[https://github.com/yordevs/yordevs.github.io/blob/gatsby/src/components/Footer.js] of the Yordevs website repo.
+   [^c]: **Guidance:** Look in [Footer.js](https://github.com/yordevs/yordevs.github.io/blob/gatsby/src/components/Footer.js) of the Yordevs website repo.
 
 1. The following ASCII art is accompanied by which Yordevs welcome in Dev Tools on the Yordevs Website?[^d]
 
@@ -277,10 +279,10 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
      adds a PNG image named yordevs-duck.png with alternative text 'The Yordevs Duck' to a page.
 
    [^l]: **Guidance:** The HTML:
-   ```HTML
-   <img src="yordevs-duck.png" alt="The Yordevs Duck">
-   ```
-   adds a PNG image named yordevs-duck.png with alternative text 'The Yordevs Duck' to a page.
+         ```HTML
+         <img src="yordevs-duck.png" alt="The Yordevs Duck">
+         ```
+         adds a PNG image named yordevs-duck.png with alternative text 'The Yordevs Duck' to a page.
 
 1. Which HTML tag formats elements as a numbered list?
 
@@ -393,11 +395,11 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + GET
 
    [^r]: **Guidance:** Fetching data (a GET request) when navigating to https://api.yordle.co.uk/ redirects you. Alternatively, in [index.ts](https://github.com/yordevs/yordle-server/blob/master/index.ts) of the [Yordle Server repo](https://github.com/yordevs/yordle-server), you can see:
-   ```TypeScript
-   app.get("*", (req, res) => {
-    res.redirect("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
-   })
-   ```
+         ```TypeScript
+         app.get("*", (req, res) => {
+          res.redirect("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+         })
+         ```
         
 1. What HTTP status code (although _slightly_ misleadingly) is accompanied by [this response](https://raw.githubusercontent.com/yordevs/yordle-server/master/resources/forbiddenResponse.txt) on the Yordle Server upon an POST request with an invalid body?[^s]  
 
@@ -407,18 +409,18 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - 402
 
    [^s]: **Guidance:** A forbidden response is usually accompanied by a 400 HTTP status code (not 403, as it currently does for the Yordle website), hence the '_slightly_ misleadingly'. The forbidden response is received along with a 403 status code if the body in a POST request is invalid. Alternatively, search the [Yordle Server repo](https://github.com/yordevs/yordle-server) for `forbiddenResponse` (`forbiddenResponse.txt` yields no response) to get to [index.ts](https://github.com/yordevs/yordle-server/blob/8229d1b2620ffbc57e3b961a8ee5af4536091f2b/index.ts) and find the following code blocks:
-   ```TypeScript
-   var forbiddenResponse: string;
-   fs.readFile('resources/forbiddenResponse.txt', 'utf8', function (err, data) {
-    if (err) throw err;
-    forbiddenResponse = data;
-   });
-   ```
-   ```TypeScript
-       } else {
-        res.status(403).send(forbiddenResponse);
-       };
-   ```
+         ```TypeScript
+         var forbiddenResponse: string;
+         fs.readFile('resources/forbiddenResponse.txt', 'utf8', function (err, data) {
+          if (err) throw err;
+          forbiddenResponse = data;
+         });
+         ```
+         ```TypeScript
+             } else {
+              res.status(403).send(forbiddenResponse);
+             };
+         ```
 
 1. Which is the correct HTML tag to enclose important text
 
@@ -639,7 +641,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - send this then!
    - hen night to remember!
 
-   [^ß]**Guidance:** Run the code in the JavaScript console in your browser developer tool (Ctrl-Shift-i). You can also test out regexes in an online regular expression tester e.g. [regex101](https://regex101.com/).
+   [^ß]: **Guidance:** Run the code in the JavaScript console in your browser developer tool (Ctrl-Shift-i). You can also test out regexes in an online regular expression tester e.g. [regex101](https://regex101.com/).
 
 ## Conclusion
 Aaaand you're done - phew! Congratulations on getting here. Just remember to send your answers in an email off to yordevs@yusu.org!
