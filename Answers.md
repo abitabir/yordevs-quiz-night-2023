@@ -474,7 +474,7 @@ If you're _really_ stuck, check the footnotes[^!] for a quick nudge or ask us fo
      </head>
      ```
 
-   [^t]: **Guidance:** Although meta title and meta descriptions can be of any length, when displayed as website snippets on search engine results pages, they are truncated typically to fit the device width. Google truncates meta titles to under 60 characters and meta descriptions to under 160 characters, but this cam vary.
+   [^t]: **Guidance:** Although meta title and meta descriptions can be of any length, when displayed as website snippets on search engine results pages, they are truncated typically to fit the device width. Google truncates meta titles to under 60 characters and meta descriptions to under 160 characters, but this can vary.
         
 1. Why is the SERP (Search Engine Results Page) snippet different from the meta description declared in the HTML for the Yordevs NextJS Tutorial? 
 
