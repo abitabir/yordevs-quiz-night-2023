@@ -593,7 +593,7 @@ If you're _really_ stuck, check the footnotes[^!] for a quick nudge or ask us fo
    - There is no focus indicator on the `Blogs` navigation link.
    - The tab order is awesome!
 
-   [^y]: **Guidance:** As of now, keyboard users are unable to navigate the Yordevs website via the nav bar.
+   [^y]: **Guidance:** As of yet, keyboard users are unable to navigate the Yordevs website via the nav bar.
 
 1. What are `<div>` tags used for in a HTML document?
    - To replace paragraphs (i.e. `<p>` tags).
