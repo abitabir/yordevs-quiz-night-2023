@@ -408,7 +408,7 @@ If you're _really_ stuck, check the footnotes[^!] for a quick nudge or ask us fo
    - 400
    - 402
 
-   [^s]: **Guidance:** A forbidden response is usually accompanied by a 400 HTTP status code (not 403, as it currently does for the Yordle website), hence the '_slightly_ misleadingly'. The forbidden response is received along with a 403 status code if the body in a POST request is invalid. Alternatively, search the [Yordle Server repo](https://github.com/yordevs/yordle-server) for `forbiddenResponse` (`forbiddenResponse.txt` yields no response) to get to [index.ts](https://github.com/yordevs/yordle-server/blob/8229d1b2620ffbc57e3b961a8ee5af4536091f2b/index.ts) and find the following code blocks:
+   [^s]: **Guidance:** A forbidden response is usually accompanied by a 400 HTTP status code (not 403, as it currently does for the Yordle website), hence the '_slightly_ misleadingly'. The forbidden response is received along with a 403 status code if the body of a POST request is invalid. Alternatively, search the [Yordle Server repo](https://github.com/yordevs/yordle-server) for `forbiddenResponse` (`forbiddenResponse.txt` yields no response) to get to [index.ts](https://github.com/yordevs/yordle-server/blob/8229d1b2620ffbc57e3b961a8ee5af4536091f2b/index.ts) and find the following code blocks:
          ```TypeScript
          var forbiddenResponse: string;
          fs.readFile('resources/forbiddenResponse.txt', 'utf8', function (err, data) {
