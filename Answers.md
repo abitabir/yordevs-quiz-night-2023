@@ -7,11 +7,11 @@ We bid you welcome to the final Yordevs event of the term, where you'll put your
 As a quiz participant you will get free pizza! Please fill out the Google Form [here](https://quiz.yordevs.com), if you haven't already.
 The Yordevs AGM will also follow this event! You can nominate yourself beforehand [here](https://nominations.yordevs.com).  
 
-You can work individually or in a group. Choose one of the four answers for every question. You have three quarters of an hour to answer them all. Email your answers to yordevs@yusu.org by 6:35pm to qualify for the prizes! Answers will be revealed at 6:40pm. Prizes will be awarded via email to a member of every winning team following the event, and it will be their responsibility to split the prize amongst their team.  
+You can work individually or in a group. Choose one of the four answers for every question. You have three quarters of an hour to answer them all. Email your answers to yordevs@yusu.org by 6:35pm on 10/03/2023 to qualify for the prizes! Answers will be revealed at 6:40pm. Prizes will be awarded via email to a member of every winning team following the event, and it will be their responsibility to split the prize amongst their team.  
 
-If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
+If you're _really_ stuck, check the footnotes[^!] for a quick nudge or ask us for help. Good luck!
 
-[^1]: **Hint:** you may find searching [Google](https://google.co.uk), inspecting [the Yordevs website](https://yordevs.com) and [the Yordevs Links page](https://links.yordevs.com/), scouring [Yordevs GitHub](https://github.com/yordevs) or utilising [CodePen](https://codepen.io) useful for some of these questions.  
+[^!]: **Hint:** you may find searching [Google](https://google.co.uk), inspecting [the Yordevs website](https://yordevs.com) and [the Yordevs Links page](https://links.yordevs.com/), scouring [Yordevs GitHub](https://github.com/yordevs) or utilising [CodePen](https://codepen.io) useful for some of these questions.  
 
 ## Questions  
 
@@ -22,7 +22,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    + `<h6>`
    - `<heading>`
 
-1. This is the modal window on the Yordle website. Which of the following HTML elements is this modal window nested in?[0]
+1. This is the modal window on the Yordle website. Which of the following HTML elements is this modal window nested in?[1]
    
    <img src="https://user-images.githubusercontent.com/68516952/224185710-64c3696d-5e91-4761-b261-48abf4722022.png" title="Yordle Modal Popup" width="350">
 
@@ -31,7 +31,7 @@ If you're _really_ stuck, ask us for a quick nudge.[^1] Good luck!
    - `<footer>`
    - `<iframe>`
 
-   [^0]: **Guidance:**: Open your browser developer tools (Ctrl-Shift-i) and select the Elements tab to inspect the Yordle landing page's HTML. Click the element selector button (Ctrl-Shift-c), select the modal window then investigate where the modal window is located in the HTML by expanding and collapsing the HTML elements in the DOM.
+   [^1]: **Guidance:**: Open your browser developer tools (Ctrl-Shift-i) and select the Elements tab to inspect the Yordle landing page's HTML. Click the element selector button (Ctrl-Shift-c), select the modal window then investigate where the modal window is located in the HTML by expanding and collapsing the HTML elements in the DOM.
 
 1. What is the correct HTML tag for inserting a line break element?
 
